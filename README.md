@@ -1,5 +1,5 @@
-# 💫 Sobre Mim:
-Me chamo Gustavo, estou no 2° ano do Ensino Médio realizando o ensino técnico de desenvolvimento de sistemas.<br>Estou Aprendendo a utilizar HTML, CSS e também programar com Python e JavaScript.<br>Atualmente eu crio pequenos projetos sobre ideias cotidianas que eu tenho para praticar meu conhecimento e melhorar constantemente.<br>Gosto bastante de jogos, músicas e séries de qualquer gênero.
+# Sobre Mim:
+Me chamo Gustavo, estou no 2° ano do Ensino Médio realizando o ensino técnico de desenvolvimento de sistemas.<br>Estou Aprendendo a programar com Python interligado com banco de dados pelo SQLite.<br>Atualmente eu crio pequenos projetos privados sobre ideias cotidianas que eu tenho para praticar meu conhecimento e melhorar constantemente.<br>Gosto bastante de jogos, músicas e séries de qualquer gênero.
 
 
 ## 🌐 Redes Sociais:
